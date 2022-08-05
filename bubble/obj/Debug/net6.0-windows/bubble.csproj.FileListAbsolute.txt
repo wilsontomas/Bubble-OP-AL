@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\bin\Debug\net6.0-windows\bubble.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\bin\Debug\net6.0-windows\bubble.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\bin\Debug\net6.0-windows\bubble.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\bin\Debug\net6.0-windows\bubble.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\bin\Debug\net6.0-windows\bubble.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.Form1.resources
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\refint\bubble.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\bubble.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\tarea 4\bubble\bubble\obj\Debug\net6.0-windows\ref\bubble.dll
